@@ -1,7 +1,5 @@
-# Olá! Bem vindo(a) ao meu perfil do GitHub!
-### 📍 19 anos, Baixada Santista.
-### 👩‍💻 Estudante do 3º Ciclo de Sistemas para Internet na Fatec Rubens Lara.
-### 🎓 Técnica em Informática pelo IFSP Campus Cubatão
-### 📖 Habilidades nas linguagens HTML, CSS, JavaScript, C++ e C# 
-
-
+<h2> Olá! Bem vindo(a) ao meu perfil do GitHub!</h2>
+<h3>📍 19 anos, Baixada Santista.</h3>
+<p>👩‍💻 Estudante do 3º Ciclo de Sistemas para Internet na Fatec Rubens Lara;</p>
+<p>🎓 Técnica em Informática pelo IFSP Campus Cubatão;</p>
+<p>📖 Habilidades nas linguagens HTML, CSS, JavaScript, C++ e C# </p>
