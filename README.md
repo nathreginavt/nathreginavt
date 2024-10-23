@@ -1,5 +1,5 @@
 <h2> Olá! Bem vindo(a) ao meu perfil do GitHub!</h2>
-<h3>📍 20 anos, SP.</h3>
+<h3>📍 21 anos, SP.</h3>
 <p>👩‍💻 Estagiária de Engenharia de TI no Itaú Unibanco;</p>
 <p>📚 Estudante do 6º Ciclo de Sistemas para Internet na Fatec Rubens Lara;</p>
 <p>🎓 Técnica em Informática pelo IFSP Campus Cubatão;</p>
